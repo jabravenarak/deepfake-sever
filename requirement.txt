@@ -4,3 +4,10 @@ transformers
 gradio
 pillow
 safetensors
+fastapi
+uvicorn
+torch
+opencv-python-headless
+python-multipart
+accelerate
+huggingface_hub
